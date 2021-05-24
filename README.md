@@ -1,0 +1,1 @@
+# flask-sqlite-admin-for-python-3
